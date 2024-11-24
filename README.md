@@ -1,2 +1,2 @@
-# react-twitter-solution
+# DApp-twitter
 Created with CodeSandbox
