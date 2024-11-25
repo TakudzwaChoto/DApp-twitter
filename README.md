@@ -1,5 +1,4 @@
 # DApp-twitter
-Created with CodeSandbox
 # Decentralized Twitter Application (DApp) Development
 
 A decentralized Twitter-inspired application built on Ethereum, integrating smart contract functionalities with a responsive frontend using Web3.js.
