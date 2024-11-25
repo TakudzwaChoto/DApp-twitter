@@ -49,8 +49,8 @@ The frontend displays tweets in real-time, ensuring an interactive and engaging 
 - **Blockchain**: Ethereum
 - **Smart Contracts**: Solidity
 - **Interaction**: Web3.js
-- **Development Tools**: MetaMask, Hardhat, Node.js
-- **Testing**: Ganache
+- **Development Tools**: MetaMask, Node.js
+- **Testing**: Remix Unit Testing
 
 ---
 
