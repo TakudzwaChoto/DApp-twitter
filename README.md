@@ -5,10 +5,10 @@ A decentralized Twitter-inspired application built on Ethereum, integrating smar
 
 ---
 
-## 🗓️ Weekly Update: November 24, 2024
+## 🗓️Update: November 24, 2024
 
 ### 🔍 This Week's Progress
-This week focused on connecting the smart contract to the frontend and enabling interaction through a seamless user interface. Key updates include:
+We focused on connecting the smart contract to the frontend and enabling interaction through a seamless user interface. Key updates include:
 
 - **Frontend-Smart Contract Integration**: 
   - Linked the frontend to the Ethereum smart contract using Web3.js.
@@ -34,9 +34,11 @@ This week focused on connecting the smart contract to the frontend and enabling 
 
 3. **User Engagement**:
    - Interaction with smart contract functionalities like profile creation and tweeting is now available through a friendly UI.
-
+     
+Environment
 ![{C9613167-EFC1-48B0-AC00-DAC2F32CD954}](https://github.com/user-attachments/assets/0ffc6777-a76a-4d04-b652-24c7551141bd)
 
+Realtime tweets
 ![{40156AFC-36C2-456F-B1F7-665E55557C9E}](https://github.com/user-attachments/assets/fd2cf94a-39d1-473e-b9f0-22d2db1e3bea)
 
 ---
